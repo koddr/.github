@@ -6,6 +6,9 @@ labels: "feature"
 assignees: "koddr"
 ---
 
+<!-- ⚡️ Please create a discussion BEFORE submitting a pull request for 
+a new feature ⚡️ -->
+
 **Required check list:**
 
 - [x] I'm going to mark the checkboxes like this.

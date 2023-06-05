@@ -1,0 +1,6 @@
+# macOS files
+.DS_Store
+
+# IDE config directories (remove the comment below to include it)
+.idea/
+.vscode/

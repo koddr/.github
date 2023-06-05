@@ -59,9 +59,9 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-vikkyshostak@gmail.com.
-All complaints will be reviewed and investigated promptly and fairly.
+reported to the community leaders responsible for enforcement at 
+[koddr.me@gmail.com][email]. All complaints will be reviewed and 
+investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
@@ -114,15 +114,18 @@ the community.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant][cc_url], 
+version 2.0, available [here][cc_faq_url].
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+enforcement ladder][mozilla_coc_url].
 
-[homepage]: https://www.contributor-covenant.org
+For answers to common questions about this code of conduct, see the FAQ 
+[here][cc_faq_url]. Translations are available [here][cc_translations_url].
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+[cc_url]: https://www.contributor-covenant.org
+[cc_faq_url]: https://www.contributor-covenant.org/faq
+[cc_translations_url]: https://www.contributor-covenant.org/translations
+[cc_coc_url]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+[mozilla_coc_url]: https://github.com/mozilla/diversity
+[email]: mailto:koddr.me@gmail.com?subject=CoC
